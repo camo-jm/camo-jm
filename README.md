@@ -1,6 +1,6 @@
-<h><b>Welcome 🧉</b></h>
+<h><b>Welcome</b></h>
 - Currently studying Informatic Enginnering
 - I know a bit of Python
-- nvim + Linux my beloved
+- nvim + Linux + 🧉 my beloved
 -------------------------
 - currently learning C
