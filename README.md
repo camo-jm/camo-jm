@@ -5,4 +5,4 @@
 
 ---
 
-- -Learning C
+- Learning C
