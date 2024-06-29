@@ -1,7 +1,7 @@
 <h><b>Welcome 🧉</b></h>
 
 - I know a bit of Python
-- nvim + UNIX my beloved
+- I learned a bit of robotics in school
 
 ---
 
