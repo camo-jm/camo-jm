@@ -6,4 +6,4 @@
 
 - Learning webdev rn
 
-🔗my YT channel: https://youtube.com/@catadordemonster
+🔗my YT channel: https://youtube.com/@ookamixdd
