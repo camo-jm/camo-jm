@@ -4,6 +4,4 @@
 
 ---
 
-- Learning webdev rn
-
 🔗my YT channel: https://youtube.com/@ookamixd
