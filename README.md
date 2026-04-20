@@ -3,5 +3,3 @@
 - I learned robotics with arduino in school
 
 ---
-
-🔗my YT channel: https://youtube.com/@ookamixd
