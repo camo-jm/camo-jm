@@ -1,5 +1,5 @@
-<h><b>Welcome 🧉</b></h>
-<h1>My name is <b>Joaquin S Mateos</b>, I'm currently working at UTN in Argentina</h1>
+<h1><b>Welcome 🧉</b></h1>
+<h>My name is <b>Joaquin S Mateos</b>, I'm currently working at UTN in Argentina</h>
 
 
 <h3>notable things</h3>
