@@ -9,7 +9,7 @@ I've always been curious as a kid, and I've always loved computers, so now I'm s
 - Lua: Intermediate
 - Java: Begginer
 - Bash: Begginer
-- CSS: Fundamentals (for my [waybar config](https://github.com/camo-jm/dotfiles/tree/main/waybar/.config/waybar))
+- CSS: Fundamentals (for my [waybar config](https://github.com/camo-jm/dotfiles/tree/main/deprecated/waybar/.config/waybar))
 - C89: Fundamentals
 
 <h><b>notable things</b></h>
