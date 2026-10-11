@@ -7,10 +7,10 @@ I've always been curious as a kid, and I've always loved computers, so now I'm s
 <h><b>Language stack</b> (in order of experience)</h>
 - Python: Intermediate
 - Lua: Intermediate
-- Java: Begginer
+- Java: Begginer (currently learning)
 - Bash: Begginer
 - CSS: Fundamentals (for my [waybar config](https://github.com/camo-jm/dotfiles/tree/main/!%20deprecated/waybar/.config/waybar))
-- C89: Fundamentals
+- C89: Fundamentals (learning in my free time)
 
 <h><b>notable things</b></h>
 - I <b>LOVE</b> libre software, and POSIX compliant tools
