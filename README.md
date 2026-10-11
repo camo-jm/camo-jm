@@ -7,12 +7,13 @@ I've always been curious as a kid, and I've always loved computers, so now I'm s
 <h><b>Language stack</b> (in order of experience)</h>
 - Python: Intermediate
 - Lua: Intermediate
+- Java: Begginer
 - Bash: Begginer
 - CSS: Fundamentals (for my [waybar config](https://github.com/camo-jm/dotfiles/tree/main/waybar/.config/waybar))
-- C99: Fundamentals
+- C89: Fundamentals
 
 <h><b>notable things</b></h>
 - I <b>LOVE</b> libre software, and POSIX compliant tools
-- I don't stop working on things until I get them done how I want: <b>effective, efficient and elegant</b> (in that order)
+- I work on things until I get them done how I want: <b>effective, efficient and elegant</b> (but make sure to <b>NOT</b> burn out)
 - I learned robotics with arduino (in C) in school
 - My english level is C1-First
