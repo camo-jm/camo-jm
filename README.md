@@ -3,6 +3,7 @@
 I've always been curious as a kid, and I've always loved computers (and clicky things in general), so now I'm studying computer science!
 
 ---
+<h><b>technologies</h></b>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D2D?style=flat&logo=lua&logoColor=white)
