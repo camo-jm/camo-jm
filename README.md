@@ -14,6 +14,6 @@ I've always been curious as a kid, and I've always loved computers (and clicky t
 
 <h><b>notable things</b></h>
 - I <b>LOVE</b> libre software, and POSIX compliant tools
-- I work on things until I get them done how I want: <b>effective, efficient and elegant</b> (but make sure to <b>NOT</b> burn out)
+- I work on things until I get them done how I want: <b>effective, efficient and elegant</b>
 - I learned robotics with arduino (in C) in school
 - My english level is C1-First
