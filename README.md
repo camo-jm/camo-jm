@@ -4,13 +4,11 @@ I've always been curious as a kid, and I've always loved computers (and clicky t
 
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-<h><b>Language stack</b> (in order of experience)</h>
-- Python: Intermediate
-- Lua: Intermediate
-- Java: Begginer (currently learning)
-- Bash: Fundamentals
-- C89: Fundamentals (learning in my free time)
-- CSS: Fundamentals (for my [waybar config](https://github.com/camo-jm/dotfiles/tree/main/!%20deprecated/waybar/.config/waybar))
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D2D?style=flat&logo=lua&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 <h><b>notable things</b></h>
 - I <b>LOVE</b> libre software, and POSIX compliant tools
