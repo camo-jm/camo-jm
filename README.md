@@ -1,6 +1,6 @@
 <h1><b>Welcome 🧉</b></h1>
 <h3>My name is <b>Joaquin S Mateos</b>, I'm currently studying at the UTN in Argentina, building my portfolio, and refining my workflow.</h3>
-I've always been curious as a kid, and I've always loved computers, so now I'm studying computer science!
+I've always been curious as a kid, and I've always loved computers (and clicky things in general), so now I'm studying computer science!
 
 ---
 
@@ -8,9 +8,9 @@ I've always been curious as a kid, and I've always loved computers, so now I'm s
 - Python: Intermediate
 - Lua: Intermediate
 - Java: Begginer (currently learning)
-- Bash: Begginer
-- CSS: Fundamentals (for my [waybar config](https://github.com/camo-jm/dotfiles/tree/main/!%20deprecated/waybar/.config/waybar))
+- Bash: Fundamentals
 - C89: Fundamentals (learning in my free time)
+- CSS: Fundamentals (for my [waybar config](https://github.com/camo-jm/dotfiles/tree/main/!%20deprecated/waybar/.config/waybar))
 
 <h><b>notable things</b></h>
 - I <b>LOVE</b> libre software, and POSIX compliant tools
