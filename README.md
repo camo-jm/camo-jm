@@ -4,6 +4,7 @@ I've always been curious as a kid, and I've always loved computers (and clicky t
 
 ---
 <h><b>technologies</h></b>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D2D?style=flat&logo=lua&logoColor=white)
@@ -11,6 +12,7 @@ I've always been curious as a kid, and I've always loved computers (and clicky t
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
+---
 <h><b>notable things</b></h>
 - I <b>LOVE</b> libre software, and POSIX compliant tools
 - I work on things until I get them done how I want: <b>effective, efficient and elegant</b>
