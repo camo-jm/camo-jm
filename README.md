@@ -3,7 +3,7 @@
 I've always been curious as a kid, and I've always loved computers (and clicky things in general), so now I'm studying computer science!
 
 ---
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 <h><b>Language stack</b> (in order of experience)</h>
 - Python: Intermediate
 - Lua: Intermediate
